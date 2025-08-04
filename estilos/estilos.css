@@ -46,9 +46,27 @@ body{
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
 .img01{
     display: block;
     margin: 0 auto;
     width: 150px;
     height: auto;
+}
+b{
+    font-size: 17.5px;
+}
+th{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+td{
+    text-align: center;
+    padding: 6px;
+}
+table{
+    width: 100%;
 }
